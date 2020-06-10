@@ -1,5 +1,5 @@
 ### Start mini project locally
-1. Clone repository to local environment url: .....
+1. Clone repository to local environment url: https://github.com/marmureanuweb/testproject.git
 2. Run [composer install -v] to install dependencies
 3. Configure [.env] with your database connection
 4. Run in current project folder [php bin/console doctrine:migrations:status] to check if database connection is ok
